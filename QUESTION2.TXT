@@ -1,0 +1,14 @@
+BLOG ABOUT OBJECTS AND ITS INTERNAL REPRESENTAION IN JAVASRIPT
+    object type is one of the javascript datatype.
+    object has properties which define the characteries.
+    which is used to store a keyword and complex entity.
+    values of object denote in curly braces {}
+    example
+    cons sample_object={a:10,,b:20,c:30}
+    cosole.log(sample_object.a)
+    //output:10
+
+    the another method to create object using new
+    var user=new  object();
+    user.first_name="mani";
+    user.last_name='s';
